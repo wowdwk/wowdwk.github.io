@@ -17,6 +17,6 @@ Hello world! &#128525;
 ## Contact
 
 ```
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Office: Ilsan, Goyang-si, Gyeonggi-do, Republic of Korea
+Email: wowdwk@naver.com or wowdwk@konkuk.ac.kr
 ```
