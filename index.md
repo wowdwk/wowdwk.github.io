@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI/ML/DL/CV
+title: AI / ML / DL / CV
 subtitle: Artificial Intelligence Research Laboratory
 cover-img: /assets/img/color.jpg
 ---
