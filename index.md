@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /assets/img/itu-seokho-m4.jpg
+title: Machine Learning / Deep Learning / Computer Vision
+subtitle: Artificial Intelligence Research Laboratory
+cover-img: /assets/img/hello.jpg
 ---
 
 <br/>
