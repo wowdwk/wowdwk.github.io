@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Machine Learning / Deep Learning / Computer Vision
+title: AI/ML/DL/CV
 subtitle: Artificial Intelligence Research Laboratory
-cover-img: /assets/img/hello.jpg
+cover-img: /assets/img/color.jpg
 ---
 
 <br/>
