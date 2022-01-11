@@ -2,7 +2,7 @@
 layout: page
 title: AI / ML / DL / CV
 subtitle: Artificial Intelligence Research Page
-cover-img: /assets/img/uni.png
+cover-img: /assets/img/final.jpg
 ---
 
 <br/>
