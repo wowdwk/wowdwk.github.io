@@ -2,7 +2,7 @@
 layout: page
 title: AI / ML / DL / CV
 subtitle: Artificial Intelligence Research Laboratory
-cover-img: /assets/img/color.jpg
+cover-img: /assets/img/uni5.png
 ---
 
 <br/>
